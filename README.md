@@ -28,4 +28,5 @@
    {
      discout_amount= 350*(5/100);
      net_amount= 350- 17.5
-#  Sample response net_amount:332.5
+#  Sample response 
+net_amount:332.5
